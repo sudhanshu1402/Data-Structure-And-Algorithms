@@ -1,4 +1,4 @@
-# Data Structure and Algorithms
+# DATA STRUCTURE AND ALGORITHMS
 
 This repository contains a collection of Data Structure Algorithms
 - Array
